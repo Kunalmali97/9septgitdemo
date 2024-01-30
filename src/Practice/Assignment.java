@@ -34,6 +34,7 @@ public void Division(double a,double b) {
 		a.Subtraction(15, 10);
 		a.Multiplication(8, 9);
 		a.Division(4.5, 0.01);
+		System.out.println("**************");
 	}
 
 }

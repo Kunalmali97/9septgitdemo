@@ -20,5 +20,6 @@ public class ThisMethod {
 		ThisMethod ab = new ThisMethod();
 //		ab.m1();
 		ab.m2();
+		Syste.out.println("***********");
 	}
 }
